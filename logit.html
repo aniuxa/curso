@@ -1528,9 +1528,9 @@ logit</h1>
 <div id="paquetería" class="section level2">
 <h2>Paquetería</h2>
 <pre class="r"><code>#install.packages(&quot;sjPlot&quot;, dependencies=T) # solito porque da problmas
-library(sjPlot)</code></pre>
-<pre><code>## Learn more about sjPlot with &#39;browseVignettes(&quot;sjPlot&quot;)&#39;.</code></pre>
-<pre class="r"><code>if (!require(&quot;pacman&quot;)) install.packages(&quot;pacman&quot;) # instala pacman si se requiere</code></pre>
+library(sjPlot)
+
+if (!require(&quot;pacman&quot;)) install.packages(&quot;pacman&quot;) # instala pacman si se requiere</code></pre>
 <pre><code>## Loading required package: pacman</code></pre>
 <pre class="r"><code>pacman::p_load(tidyverse, # sobretodo para dplyr
               haven, #importación

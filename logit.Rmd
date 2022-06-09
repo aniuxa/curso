@@ -8,6 +8,10 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: false
+#  github_document:
+#     toc: true
+#     toc_depth: 2
+# always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
