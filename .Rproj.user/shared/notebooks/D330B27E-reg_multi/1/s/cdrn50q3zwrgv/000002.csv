@@ -1,0 +1,5 @@
+"0","tidy(modelo2)%>%"
+"0","  kbl() %>%"
+"0","  kable_paper(""hover"", full_width = F)"
+"2","Error in tidy(modelo2) : object 'modelo2' not found
+"

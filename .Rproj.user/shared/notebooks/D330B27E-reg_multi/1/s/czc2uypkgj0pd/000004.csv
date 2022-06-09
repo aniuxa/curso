@@ -1,0 +1,8 @@
+"0","mydata<- SDEMT122 %>% "
+"0","  filter(clase2==1) %>%  # me quedo con la población ocupada"
+"0","  filter(ing_x_hrs>0) %>% # ingresos válidso"
+"0","  filter(anios_esc<99) %>% # quito missings anios de escolaridad"
+"0","  filter(eda>14 & eda<99) %>% #PET"
+"0","  select(eda, sex, anios_esc, ing_x_hrs, pos_ocu, imssissste, medica5c, ent)  "
+"0","  "
+"0","tail(mydata)"

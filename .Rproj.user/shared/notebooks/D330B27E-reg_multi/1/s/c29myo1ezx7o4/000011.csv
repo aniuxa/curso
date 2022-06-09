@@ -1,0 +1,5 @@
+"0","mydata$rownames<-rownames(mydata)"
+"0","#View(mydata) # verificamos que no hayamos movido el orden"
+"0",""
+"0","mydata2<-mydata[-outliers,]"
+"0",""

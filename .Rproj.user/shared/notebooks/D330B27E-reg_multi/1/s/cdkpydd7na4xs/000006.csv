@@ -1,0 +1,4 @@
+"0","mydata %>% "
+"0","  ggplot()+ "
+"0","  aes(anios_esc, log(ing_x_hrs)) +"
+"0","        geom_jitter()"

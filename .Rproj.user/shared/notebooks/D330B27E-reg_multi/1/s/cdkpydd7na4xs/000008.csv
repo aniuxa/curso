@@ -1,0 +1,8 @@
+"0",""
+"0","mydata$log_ing_x_hrs<-log(mydata$ing_x_hrs)"
+"0",""
+"0","cor(mydata$log_ing_x_hrs, mydata$anios_esc,  use = ""pairwise"")"
+"1","[1]"
+"1"," 0.4269749"
+"1","
+"
