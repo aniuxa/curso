@@ -13,6 +13,9 @@ Viernes 10 de junio
 
 [Material](reg_multi.md) 
 
+[Presentacion](10junio.pdf) 
+
+
 ## Regresión logística binaria
 
 Viernes 17 de junio
