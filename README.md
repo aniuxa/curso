@@ -13,7 +13,10 @@ Viernes 10 de junio
 
 [Material](reg_multi.md) 
 
+[Práctica](reg_multi.R)
+
 [Presentacion](10junio.pdf) 
+
 
 
 ## Regresión logística binaria
@@ -21,5 +24,8 @@ Viernes 10 de junio
 Viernes 17 de junio
 
 [Material](logit.md) 
+
+[Práctica](logit.R)
+
 
 
